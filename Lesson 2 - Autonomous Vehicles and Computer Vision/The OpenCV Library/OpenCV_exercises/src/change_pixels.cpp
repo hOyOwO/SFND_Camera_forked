@@ -16,8 +16,13 @@ void changePixels()
     for (int r = 230; r < 250; r++)
     {
         // STUDENT TASK : loop over all columns and set matrix elements to 255
-
+        for (int j = 0; j < m1_8u.cols; j++)
+        {
+            m1_8u.at<int>(r, j) = 255;
+        }
     }
+
+
 
     // show result
     string windowName = "First steps in OpenCV";
