@@ -1,0 +1,7 @@
+/root/SFND_Camera_forked/Lesson 2 - Autonomous Vehicles and Computer Vision/The OpenCV Library/OpenCV_exercises/build/CMakeFiles/edit_cache.dir
+/root/SFND_Camera_forked/Lesson 2 - Autonomous Vehicles and Computer Vision/The OpenCV Library/OpenCV_exercises/build/CMakeFiles/rebuild_cache.dir
+/root/SFND_Camera_forked/Lesson 2 - Autonomous Vehicles and Computer Vision/The OpenCV Library/OpenCV_exercises/build/CMakeFiles/load_image_3.dir
+/root/SFND_Camera_forked/Lesson 2 - Autonomous Vehicles and Computer Vision/The OpenCV Library/OpenCV_exercises/build/CMakeFiles/create_matrix.dir
+/root/SFND_Camera_forked/Lesson 2 - Autonomous Vehicles and Computer Vision/The OpenCV Library/OpenCV_exercises/build/CMakeFiles/change_pixels.dir
+/root/SFND_Camera_forked/Lesson 2 - Autonomous Vehicles and Computer Vision/The OpenCV Library/OpenCV_exercises/build/CMakeFiles/load_image_2.dir
+/root/SFND_Camera_forked/Lesson 2 - Autonomous Vehicles and Computer Vision/The OpenCV Library/OpenCV_exercises/build/CMakeFiles/load_image_1.dir
