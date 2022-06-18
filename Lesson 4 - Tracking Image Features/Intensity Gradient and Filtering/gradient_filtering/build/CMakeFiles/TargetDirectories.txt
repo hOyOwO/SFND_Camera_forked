@@ -1,0 +1,5 @@
+/root/SFND_Camera_forked/Lesson 4 - Tracking Image Features/Intensity Gradient and Filtering/gradient_filtering/build/CMakeFiles/edit_cache.dir
+/root/SFND_Camera_forked/Lesson 4 - Tracking Image Features/Intensity Gradient and Filtering/gradient_filtering/build/CMakeFiles/gaussian_smoothing.dir
+/root/SFND_Camera_forked/Lesson 4 - Tracking Image Features/Intensity Gradient and Filtering/gradient_filtering/build/CMakeFiles/gradient_sobel.dir
+/root/SFND_Camera_forked/Lesson 4 - Tracking Image Features/Intensity Gradient and Filtering/gradient_filtering/build/CMakeFiles/magnitude_sobel.dir
+/root/SFND_Camera_forked/Lesson 4 - Tracking Image Features/Intensity Gradient and Filtering/gradient_filtering/build/CMakeFiles/rebuild_cache.dir
