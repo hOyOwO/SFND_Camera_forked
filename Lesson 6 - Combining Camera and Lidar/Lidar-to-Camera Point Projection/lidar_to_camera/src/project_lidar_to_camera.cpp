@@ -59,11 +59,13 @@ void projectLidarToCamera2()
        X.at<double>(1,0) = y;
        X.at<double>(2,0) = z;
        X.at<double>(3,0) = w;
+       //cout << x << y << z << w << endl;
 
      
         // 2. Then, apply the projection equation as detailed in lesson 5.1 to map X onto the image plane of the camera. 
         // Store the result in Y.
         //Y = P_rect_00 * X 
+        /*
         for (int i = 0 ; i < 3 ; i++)
         {
             for (int j = 0; j < 4 ; j++)
@@ -72,7 +74,8 @@ void projectLidarToCamera2()
                 Y.at<double>(i,0) += Y.at<double>(i,0) ; 
             }
             
-        }
+        }*/
+        Y = P_rect_00 * R_rect_00 * RT* X;
         
         // 3. Once this is done, transform Y back into Euclidean coordinates and store the result in the variable pt.
         cv::Point pt;
