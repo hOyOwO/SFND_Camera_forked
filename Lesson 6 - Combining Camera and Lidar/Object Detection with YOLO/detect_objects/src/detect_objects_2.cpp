@@ -14,6 +14,7 @@ void detectObjects2()
 {
     // load image from file
     cv::Mat img = cv::imread("../images/s_thrun.jpg");
+    //cv::Mat img = cv::imread("../images/0000000000.png");
 
     // load class names from file
     string yoloBasePath = "../dat/yolo/";
@@ -34,7 +35,8 @@ void detectObjects2()
     // generate 4D blob from input image
     cv::Mat blob;
     double scalefactor = 1/255.0;
-    cv::Size size = cv::Size(416, 416);
+    cv::Size size = cv::Size(416, 416); 
+    //cv::Size size = cv::Size(416, 416); 
     cv::Scalar mean = cv::Scalar(0,0,0);
     bool swapRB = false;
     bool crop = false;
